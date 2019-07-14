@@ -1,3 +1,4 @@
+// Copyright (c) 2018, Ryo Cryptocurrency Project
 // Copyright (c) 2018, Ryo Currency Project
 // Portions copyright (c) 2014-2018, The Monero Project
 //
